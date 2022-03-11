@@ -7,4 +7,4 @@ PYTHON=${VENV_NAME}/bin/python3
 
 all:
 	cp while-ss.py while-ss
-	chmod +x while
+	chmod +x while-ss
